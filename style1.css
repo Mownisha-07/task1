@@ -1,0 +1,30 @@
+h3 {
+  border: 5px solid purple;
+  border-radius: 20px;
+  margin: auto;
+  background: purple;
+  width: 85px;
+  margin-top: 20px;
+  box-shadow: 5px 5px 5px;
+}
+img {
+  border-radius: 25px;
+  box-shadow: 5px 5px 5px;
+}
+h4 {
+  border: 5px solid rgb(115, 128, 0);
+  border-radius: 20px;
+  margin: auto;
+  background: rgb(115, 128, 0);
+  width: 225px;
+  margin-top: 20px;
+  box-shadow: 5px 5px 5px;
+}
+h1 {
+  font-style: oblique;
+  color: blue;
+}
+h2 {
+  color: darkblue;
+  font-style: oblique;
+}
